@@ -1,0 +1,22 @@
+{
+  "first_name" : "Sharik",
+  "last_name" : "Atkinson",
+  "location" : "Florida",
+  "online" : true,
+  "followers" : 849,
+  "displayHandle": "sharikatkinson",
+  "age": 17,
+  "active": true,
+
+  "posts" : [
+    {
+      "Status 1" : "So excited to hang out with my friends!"
+    },
+    {
+      "Status 2" : "Anna is coming to my house today!"
+    },
+    {
+      "Status 3": "I am so excited for A Cappella rehearsal"
+    }
+  ]
+}
